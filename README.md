@@ -191,7 +191,7 @@ Focus on Mutli-person. (\Skip)
 - Commonly used in the COCO keypoints challenge.
 - OKS =
 
-<img src="/Users/yuxumin/Downloads/pic13.png" alt="avaor" style="zoom:50%;" />
+<img src="./pic/pic13.png" alt="avaor" style="zoom:50%;" />
 
 - Where didi is the Euclidean distance between the detected keypoint and the corresponding ground truth, vivi is the visibility flag of the ground truth, s is the object scale, and kikis a per-keypoint constant that controls falloff.
 

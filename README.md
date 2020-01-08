@@ -4,7 +4,7 @@
 
 In this paper，pose estimation is formulated as a CNN-based regression problem towards body joints.
 
-![avator](https://github.com/yuxumin/Pose-estimation/blob/master/pic/pic2.png)
+![avator](./pic/pic2.png)
 
 The model consisted of an AlexNet backend (7 layers) with an extra final layer that outputs 2k joint coordinates 
 
